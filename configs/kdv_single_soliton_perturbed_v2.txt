@@ -1,0 +1,26 @@
+# kappa 2.4
+scenario_name = KdV Single Soliton Perturbed v2
+mu = 1.0
+eps = 6.0
+eta = 0.2
+nx = 1024
+x_min = -25.0
+x_max = 25.0
+t_final = 1.5
+rtol = 1e-10
+atol = 1e-12
+ic_type = sech
+amplitude = 11.52
+width = 0.4166666666666667
+position = -20.0
+n_cores = 0
+output_dir = outputs
+save_netcdf = true
+save_animation = true
+n_frames = 200
+fps = 30
+dpi = 150
+view_3d = true
+colormap = inferno
+line_width = 2.5
+alpha = 0.9
