@@ -10,7 +10,7 @@ BibTex citation coming soon...
 Also see:
 - Zenodo: `coming soon...`
 - ArXiV pre-print: `coming soon...`
-- - To recreate results in the paper, see `recreate_paper_results.ipynb` and `recreate_figures.ipynb`.
+- To recreate results in the paper, see `recreate_paper_results.ipynb` and `recreate_figures.ipynb`.
 - [The tutorials and examples located here](https://github.com/SethMinor/PyWSINDy-for-PDEs) for instructions on how to use the `wsindy_ode`.
 
 We use experimental data taken from [a study by Heinrich et al. (2026)]((https://dataverse.no/dataset.xhtml;jsessionid=a491137f64bab65ab95af677ea7a?persistentId=doi%3A10.18710%2FMRTNPI&version=&q=&fileAccess=&fileTag=&fileSortField=&fileSortOrder=&tagPresort=false&folderPresort=true)
