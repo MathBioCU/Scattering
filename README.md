@@ -37,7 +37,7 @@ symengine
 tqdm
 ```
 
-###### Install PyWSINDy for PDEs a Bash environment:
+###### Install WSINDy in a Bash environment:
 ```python3
 wget -q https://raw.githubusercontent.com/SethMinor/PyWSINDy-for-PDEs/main/wsindy.py
 wget -q https://raw.githubusercontent.com/SethMinor/PyWSINDy-for-PDEs/main/wsindy_ode.py
