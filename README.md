@@ -1,15 +1,23 @@
-# Scattering (UNDER CONSTRUCTION)
+# Scattering Dynamics with WSINDy
 
 <img width="3702" height="1452" alt="kdv_noisy_tracking_snapshots" src="https://github.com/user-attachments/assets/1b48f9ac-e8ef-4942-9e9c-d63707de8f90" />
 
 Python code accompanying the manuscript **"Learning effective soliton dynamics from scattering data,"** submitted to the *Journal of Nonlinear Waves.*
 ```
-BibTex citation coming soon...
+@misc{minor2026learningeffectivesolitondynamics,
+      title={Learning Effective Soliton Dynamics from Scattering Data}, 
+      author={Seth Minor and Vanja Dukic and David M. Bortz},
+      year={2026},
+      eprint={2607.01545},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph},
+      url={https://arxiv.org/abs/2607.01545}, 
+}
 ```
 
 Also see:
 - Zenodo: `coming soon...`
-- ArXiV pre-print: `coming soon...`
+- ArXiV pre-print: [https://doi.org/10.48550/arXiv.2607.01545](https://doi.org/10.48550/arXiv.2607.01545)
 - To recreate results in the paper, see `recreate_paper_results.ipynb` and `recreate_figures.ipynb`.
 - [The tutorials and examples located here](https://github.com/SethMinor/PyWSINDy-for-PDEs) for instructions on how to use the `wsindy_ode`.
 
